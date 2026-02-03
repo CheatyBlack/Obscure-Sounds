@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
-    "url": "https://github.com/CheatyBlack/Obscure-Sounds/releases/download/v1.0.6/ObscureSetup.exe",
-    "notes": "☁️ CLOUD UPDATE:\n- Sistema de Login/Registro adicionado.\n- Playlists, Likes e Equalizador agora salvam na nuvem.\n- Perfil personalizável (Foto e Nome).\n- Correção no Scroll da Playlist (lista cortada).\n- Melhorias de estabilidade e segurança."
+    "version": "1.0.7",
+    "url": "https://github.com/CheatyBlack/Obscure-Sounds/releases/download/v1.0.7/ObscureSetup.exe",
+    "notes": "🚀 PERFORMANCE & FIXES UPDATE:\n- Inicialização Instantânea: Otimização de Lazy Loading (abertura em <1s).\n- Cache em RAM: Fim dos travamentos ao salvar/editar playlists.\n- Resume Playback: O player lembra a música, fila e segundo exato ao reabrir.\n- Correção de sincronia do Volume Inicial, Persistência Offline e Segurança de Dados (RLS)."
 }
