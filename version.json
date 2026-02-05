@@ -1,5 +1,5 @@
 {
-    "version": "1.0.7",
-    "url": "https://github.com/CheatyBlack/Obscure-Sounds/releases/download/v1.0.7/ObscureSetup.exe",
-    "notes": "🚀 PERFORMANCE & FIXES UPDATE:\n- Inicialização Instantânea: Otimização de Lazy Loading (abertura em <1s).\n- Cache em RAM: Fim dos travamentos ao salvar/editar playlists.\n- Resume Playback: O player lembra a música, fila e segundo exato ao reabrir.\n- Correção de sincronia do Volume Inicial, Persistência Offline e Segurança de Dados (RLS)."
+    "version": "1.0.8",
+    "url": "https://github.com/CheatyBlack/Obscure-Sounds/releases/download/v1.0.8/ObscureSetup.exe",
+    "notes": "🌐 NOVO: Suporte a Multi-idiomas (PT-BR / EN-US).\n👥 SOCIAL: Nova busca de usuários e perfis públicos.\n🔒 PRIVACIDADE: Opção para tornar playlists Públicas ou Privadas.\n💾 BIBLIOTECA: Agora é possível salvar playlists de outros usuários.\n🔧 CORREÇÃO CRÍTICA: Resolvido erro 302 do SoundCloud (proxy de áudio implementado).\n✨ UI: Novo menu de opções, edição de capa simplificada e melhorias visuais."
 }
